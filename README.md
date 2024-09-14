@@ -19,7 +19,8 @@ src="https://img.shields.io/twitter/follow/nidhi_dew?logo=twitter&style=for-the-
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="Html5" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="Css3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="ReactJS" /></a>
-
+<a href="https://docs.docker.com/get-started/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker.svg" width="36" height="36" alt="ReactJS" /></a>
+  
 </p>
 
 
